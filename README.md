@@ -4,8 +4,8 @@ Pages : https://friztsauqi.github.io/pgtpj/
 
 Anggota Grup B-27 :
 
-Enrico Sinaga
-Frizt Ian Iqbal Sauqi
-Fuaddyra `Asya
-Elsha Juliani
-Ferdi Andeska
+<p>Enrico Sinaga</p>
+<p>Frizt Ian Iqbal Sauqi</p>
+<p>Fuaddyra `Asya</p>
+<p>Elsha Juliani</p>
+<p>Ferdi Andeska</p>
